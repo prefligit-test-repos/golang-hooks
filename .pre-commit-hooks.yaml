@@ -1,0 +1,4 @@
+- id: echo
+  name: echo
+  language: golang
+  entry: golang-hooks
